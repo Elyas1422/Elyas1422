@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI and machine learning**
 
-- 👯 I’m looking to collaborate on **Angular web-devlopment**
+- 🤝 I’m looking to collaborate on **Angular web-devlopment**
 
 - 📫 How to reach me **elyasalmubarak@gmail.com**
 

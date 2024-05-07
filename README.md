@@ -4,7 +4,7 @@
  <img src="https://github.com/Elyas1422/elyas1422/assets/79568124/f18eddc0-dad2-43b3-8f25-fbd85c97f37b" alt="Portfolio" width="80%"/>  
 </div>
 
-<h3 align="center"><strong>Visit my portfolio: </strong> <a href="https://elyas.app/"></a>https://elyas.app/</h3>
+<h3 align="center"><strong>Visit my portfolio: </strong> <a href="https://elyas.app"></a>https://elyas.app</h3>
 
 ------------------
 
